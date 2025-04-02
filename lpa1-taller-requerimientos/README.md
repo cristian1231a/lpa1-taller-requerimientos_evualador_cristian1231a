@@ -80,6 +80,6 @@ Maecenas sed lorem at arcu varius mollis. Sed eleifend nulla ut blandit interdum
 1. Ejecutar el proyecto
 ```bash
 cd lpa1-taller-requerimientos
-python app.py
+python main.py
 ```
 
